@@ -4,6 +4,6 @@
 const Input = require('./lib/input.js');
 const Note = require('./lib/notes.js');
 
-const options = new Input();
+const input = new Input();
 
-new Note(options.aNote).execute(options);
+new Note(input.aNote).execute(input);
