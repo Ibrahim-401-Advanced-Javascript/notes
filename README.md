@@ -1,24 +1,27 @@
-## Notes Class-01
-
+## Notesy : Class-02
 ### Author : Cas Ibrahim
 
 ---
 
+
+#### Overview
+Notesy is a Command Line Application (CLI) that allows the user to input text as a note
+
 #### Setup
-* clone the app
-* run npm i
-  * this will install the following dependencies:
+* Clone the app
+* Run npm i
+  * This will install the following dependencies:
     * minimist
+    * jest
 
 #### Running the app
-* within the directory, run either: 
-  * node . --add 'YOUR MESSAGE' or
-  * node . -a 'YOUR MESSAGE', 
-*** replace 'YOUR MESSAGE' with whatever note you would like to input
+* Within the directory, enter either: 
+  * `node . --add 'YOUR MESSAGE'` or
+  * `node . -a 'YOUR MESSAGE'`, 
+* Before running, replace `'YOUR MESSAGE'` with whatever note you would like to input
+* You should receive a confirmation message of `Adding Note: 'YOUR MESSAGE' `
 
-* you should receive a confirmation message of
-  * Adding Note: 'YOUR MESSAGE' 
-
-<!-- #### Tests -->
+#### Tests
+* Unit Tests: `npm run test`
 
 <!-- #### UML -->
