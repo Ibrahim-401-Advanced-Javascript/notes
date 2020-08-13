@@ -5,7 +5,13 @@
 
 
 #### Overview
-Notesy is a Command Line Application (CLI) that allows the user to input text as a note
+Notesy is a Command Line Application (CLI) that allows the user to:
+  * input text as a note
+  * add a category to the note
+  * save the note to a database
+  * list all saved notes 
+  * list all saved notes by category
+  * delete notes from the database
 
 #### Setup
 * Clone the app
