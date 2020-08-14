@@ -1,4 +1,4 @@
-## Notesy : Class-03
+## Notesy : Class-04
 ### Author : Cas Ibrahim
 
 ---
@@ -32,7 +32,7 @@ Notesy is a Command Line Application (CLI) that allows the user to:
   * `node . --add 'YOUR MESSAGE' --category 'CATEGORY'` or
   * `node . -a 'YOUR MESSAGE' --category 'CATEGORY'`
     * Before running, replace `'CATEGORY'` with a category name of your choice.
-* If you do not wish to add a category, simply omit this from your submission.
+* If you do not wish to add a category, simply omit this from your submission. It will be assigned a category of 'general'.
 <br>
 
 * Upon submitting, You should receive a confirmation message of `Note Saved: 'YOUR MESSAGE' `
