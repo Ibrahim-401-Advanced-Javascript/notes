@@ -1,4 +1,4 @@
-## Notesy : Class-02
+## Notesy : Class-03
 ### Author : Cas Ibrahim
 
 ---
